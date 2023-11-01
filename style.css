@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    color: #ddd;
+}
+header {
+    background: color #1abc9c; 
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+body{
+    background-color: hsl(from color h s l);
+}
+footer {
+    background-color: dimgrey;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
